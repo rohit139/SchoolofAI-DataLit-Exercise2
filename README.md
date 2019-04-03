@@ -1,1 +1,1 @@
-# SchoolofAI-DataLit-Exercise2
+# SchoolofAI-DataLit-Practices
